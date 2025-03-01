@@ -49,7 +49,7 @@ namespace WFinicial
 
         private void btn5_Click_1(object sender, EventArgs e)
         {
-            Form5 form5 = new Form5();
+            Form5 form5 = new Form5(); 
             form5.ShowDialog();
         }
 
